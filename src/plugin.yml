@@ -1,0 +1,21 @@
+main: com.casdonline.graduation.Main
+name: CASD_Graduation
+version: 1.9.8.11
+api: 1.0.0
+author: Baz
+
+commands:
+  team:
+    description: Teams for players to join!
+    useage: /team
+  user:
+    description: A command linking a username, full name, and team!
+    useage: /user
+  setspawn:
+    description: A command for setting and checking the spawn location for teams!
+    useage: /setspawn
+  display: 
+    useage: /display
+  start:
+    description: A command for starting the activities!
+    useage: /start
